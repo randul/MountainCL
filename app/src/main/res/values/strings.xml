@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MountainCL</string>
+    <string name="title_activity_navigation_menu">navigationMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UserName</string>
+    <string name="nav_header_subtitle">Powered by Android</string>
+    <string name="nav_header_image">Navigation header image</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Map</string>
+    <string name="menu_slideshow">Favorites</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_new">Create Route</string>
+    <string name="menu_about">About us</string>
+    <string name="menu_login">Log In</string>
+    <string name="menu_change_password">Change Password</string>
+
+
+    <string name="menu_login_id">User ID</string>
+    <string name="menu_login_password">Password</string>
+    <string name="menu_register">Register</string>
+
+    <string name="API_KEY">AIzaSyAntGfhAYnAykS8D0dQisbYZIhKxliQB_I</string>
+
+    <string name="button_MyProfile">Profile</string>
+    <string name="button_Map">Map</string>
+    <string name="button_Social">FAQ</string>
+    <string name="button_Share">Share</string>
+
+    <string name="settings_language1">English</string>
+    <string name="settings_language2">Spanish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="GuestLogin">Continue as a Guest</string>
+    <string name="logOut">Log Out</string>
+    <string name="line">_____________________________</string>
+    <string name="HomeEquipment">equipment</string>
+    <string name="HomeFavorites">favorites</string>
+    <string name="screen_title">Screen Title</string>
+    <string name="menu_button">menu button</string>
+    <string name="save">save</string>
+    <string name="select_image">Select Image</string>
+
+
+    <string name="dialog">Select image source</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="create_route">Create Route</string>
+    <string name="image_name">Image Name</string>
+    <string name="splash_subtitle">Powered by Android</string>
+    <string name="paths">Paths</string>
+    <string name="friends">Friends</string>
+
+    <string name="finishSession">Exit</string>
+    <string name="cancelFinish">Cancel</string>
+    <string name="back">back_button</string>
+    <string name="mountain_image">Mountain Image</string>
+
+
+</resources>

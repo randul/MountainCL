@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/menuHome">
+
+    <fragment
+        android:id="@+id/menuHome"
+        android:name="com.example.mountaincl.ui.home.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/menuAbout"
+        android:name="com.example.mountaincl.ui.aboutUs.AboutUs"
+        android:label="about_us_fragment"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/menuMap"
+        android:name="com.example.mountaincl.ui.maps.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
+
+    <dialog
+        android:id="@+id/menuLogOut"
+        android:name="com.example.mountaincl.ui.logout.LogOut"
+        android:label="@string/logOut"
+        tools:layout="@layout/image_dialog"/>
+
+    <dialog
+        android:id="@+id/menuChangePass"
+        android:name="com.example.mountaincl.ui.changePass.ChangePass"
+        android:label="@string/menu_change_password"
+        tools:layout="@layout/dialog_change_password"/>
+
+
+    <activity
+        android:id="@+id/menuLogin"
+        android:name="com.example.mountaincl.ui.login.LoginActivity"
+        android:label="activity_login"
+        tools:layout="@layout/activity_login" />
+    <activity
+        android:id="@+id/menuRegister"
+        android:name="com.example.mountaincl.ui.register.RegisterActivity"
+        android:label="activity_register"
+        tools:layout="@layout/activity_register" />
+
+
+</navigation>
