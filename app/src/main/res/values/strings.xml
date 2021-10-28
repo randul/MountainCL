@@ -59,6 +59,11 @@
     <string name="cancelFinish">Cancel</string>
     <string name="back">back_button</string>
     <string name="mountain_image">Mountain Image</string>
+    <string name="register_button">REGISTER</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="registerLink">Already Registered?\nLogin Here</string>
 
 
 </resources>
